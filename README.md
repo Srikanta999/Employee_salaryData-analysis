@@ -1,0 +1,3 @@
+This project involves exploratory data analysis on a dataset titled Salaries.csv, aiming to understand salary trends across various job roles, academic ranks, and demographics. Using the Python library pandas, the data is first loaded and visualized to identify patterns and outliers. The analysis begins with inspecting the first and last few rows of the dataset to get a sense of its structure and completeness.
+
+Subsequent steps may include data cleaning, statistical summaries, and visualizations to examine relationships between salary, gender, experience, and position level . This kind of analysis helps in uncovering potential salary disparities and factors influencing compensation in academic institutions.
